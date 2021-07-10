@@ -1,0 +1,7 @@
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DeligateInvocationProgram\bin\Debug\DeligateInvocationProgram.exe.config
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DeligateInvocationProgram\bin\Debug\DeligateInvocationProgram.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DeligateInvocationProgram\bin\Debug\DeligateInvocationProgram.pdb
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DeligateInvocationProgram\obj\Debug\DeligateInvocationProgram.csproj.AssemblyReference.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DeligateInvocationProgram\obj\Debug\DeligateInvocationProgram.csproj.CoreCompileInputs.cache
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DeligateInvocationProgram\obj\Debug\DeligateInvocationProgram.exe
+C:\Users\shridatta.r\Documents\Visual Studio 2019\Bootcamp Practice\csharp essentials\DeligateInvocationProgram\obj\Debug\DeligateInvocationProgram.pdb
